@@ -1,7 +1,7 @@
 ### Olá, Eu sou o GuiMoraesG
 
 - Estou dísponivel para contrato.
-- No momento meu cronograma de estudos é o seguinte: C, C++ e C#.
+- Meus próximos estudos em ordem de aprendizagem: C, C++ e C#.
 - E-mail de contato: gmoraesg64@gmail.com
 
   ##
