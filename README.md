@@ -23,3 +23,7 @@
   <a href = "mailto:gmoraesg64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+##
+
+Para conseguir acessar o código da atividade 1, basta acessar este link: https://github.com/GuiMoraesG/projetos/tree/main/Projetos-JavaScript/atividade1
