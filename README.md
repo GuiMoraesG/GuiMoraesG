@@ -1,7 +1,7 @@
 ### Olá, Eu sou o GuiMoraesG
 
 - Estou dísponivel para contrato.
-- Meus próximos estudos em ordem de aprendizagem: C, C++ e C#.
+- Focado na aprendizagem da linguagem de programação C#.
 - E-mail de contato: gmoraesg64@gmail.com
 
   ##
