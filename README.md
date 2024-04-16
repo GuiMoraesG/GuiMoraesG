@@ -26,7 +26,3 @@
 </div>
 
 ##
-
-Para conseguir ver o funcionamento da atividade 1 e realizar testes, basta clicar neste link: https://guimoraesg.github.io/projetos/Projetos-JavaScript/atividade1
-
-Para conseguir acessar o código da atividade 1, basta acessar este link: https://github.com/GuiMoraesG/projetos/tree/main/Projetos-JavaScript/atividade1
